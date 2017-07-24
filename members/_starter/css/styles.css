@@ -1,0 +1,14 @@
+html, body {
+  height: 100%; }
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #777;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  body .container .hello {
+    font-size: 50px; }
+    body .container .hello span {
+      color: #f00; }
